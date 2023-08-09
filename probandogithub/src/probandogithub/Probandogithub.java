@@ -16,25 +16,24 @@ public class Probandogithub {
      */
     public static void main(String[] args) {
         System.out.println("probando.");
-        
-        System.out.println("Segundo cambio hecho por Yanina");
-        System.out.println("Tercer cambio hecho por Fernanda");
 
+        System.out.println("Segundo cambio hecho por Yanina");
+
+        System.out.println("Tercer cambio hecho por Fernanda");
 
         System.out.println("cuarto cambio hecho por Nandy");
 
         System.out.println("quinto cambio hecho por Ariel");
 
         System.out.println("sexto cambio hecho por Nandy");
-        
+
         System.out.println("septimo cambio hecho por Dario");
-        
-          System.out.println("Octavo cambio hecho por Lourdes");
-        
-        Simonetta Dan = new Simonetta(); 
+
+        System.out.println("Octavo cambio hecho por Lourdes");
+
+        Simonetta Dan = new Simonetta();
         Dan.msg();
 
-
     }
-    
+
 }
