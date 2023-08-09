@@ -14,5 +14,7 @@ public class Simonetta {
         System.out.println("Cambio de clase");
         
         System.out.println(":)");
+        
+        System.out.println("Se fusionó o no?");
     }
 }
