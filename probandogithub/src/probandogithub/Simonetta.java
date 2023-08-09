@@ -11,6 +11,6 @@ package probandogithub;
  */
 public class Simonetta {
     public void msg(){
-        System.out.println("Tengo sueño");
+        System.out.println("Cambio de clase");
     }
 }
