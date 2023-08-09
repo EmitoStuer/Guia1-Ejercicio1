@@ -20,12 +20,20 @@ public class Probandogithub {
         System.out.println("Segundo cambio hecho por Yanina");
         System.out.println("Tercer cambio hecho por Fernanda");
 
-        System.out.println("Tercer cambio hecho por Nandy");
+
+        System.out.println("cuarto cambio hecho por Nandy");
+
+        System.out.println("quinto cambio hecho por Ariel");
+
+        System.out.println("sexto cambio hecho por Nandy");
         
-        System.out.println("Cuarto cambio hecho por Dario");
+        System.out.println("septimo cambio hecho por Dario");
         
-        Simonetta Dan = new Simonetta();
+          System.out.println("Octavo cambio hecho por Lourdes");
+        
+        Simonetta Dan = new Simonetta(); 
         Dan.msg();
+
 
     }
     
