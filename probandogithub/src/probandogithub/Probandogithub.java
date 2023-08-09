@@ -31,7 +31,7 @@ public class Probandogithub {
         
           System.out.println("Octavo cambio hecho por Lourdes");
           
-          System.out.println("Bloqueado");
+          System.out.println("Bloqueado 2");
         
         Simonetta Dan = new Simonetta(); 
         Dan.msg();
