@@ -32,6 +32,8 @@ public class Probandogithub {
         System.out.println("Octavo cambio hecho por Lourdes");
         
         System.out.println("(=^-^=) Arieru, Onii-chan!!!!");
+        
+        System.out.println("Dani,sempai!!!");
 
         Simonetta Dan = new Simonetta();
         Dan.msg();
